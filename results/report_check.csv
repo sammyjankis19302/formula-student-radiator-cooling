@@ -1,0 +1,34 @@
+quantity,printed,recomputed
+"Engine fuel power (kW)",170.1687,170.16874
+"Heat to coolant, 35 % (kW)",59.559,59.559059
+"Coolant mass flow (kg/s)",2.316667,2.316666667
+"Flow per tube (kg/s)",0.0926667,0.09266666667
+"Coolant speed in a tube (m/s)",0.06435,0.06435185185
+"Hydraulic diameter (m)",0.03789,0.03789473684
+"Reynolds number, coolant",7620,7620.614035
+"Nusselt number, coolant",38.7,38.7018573
+"Coolant-side h (W/m2K)",684.2,684.2703381
+"Face velocity (m/s)",1.791,1.791271347
+"Channel velocity (m/s)",2.985,2.985452245
+"Air-side h (W/m2K)",95.7,82.14401849
+"Fin parameter m (1/m)",30.93,28.66077781
+"Fin efficiency",0.98,0.9828367758
+"Wetted area, coolant (m2)",0.969,0.969
+"Overall U (W/m2K)",41.62,38.83915211
+"Log-mean temperature difference (K)",62.2,62.19883923
+"Radiator capability (kW)",23.3,21.7417516
+"Area needed at 35 % (m2)",23,24.65447775
+
+check,value
+"Most heat 300 CFM of air can carry, 25 -> 95 degC (kW)",11.81721158
+"Air temperature rise the printed 23.3 kW would need (K)",138.0190232
+"Heat removed by 95 -> 80 degC at 139 L/min (kW)",145.4635
+"Coolant cools by, for 59.6 kW (K)",6.141649864
+"Printed UA, done with effectiveness-NTU (kW)",10.48574063
+"This model: coolant speed in a tube (m/s)",1.679961325
+"This model: Reynolds number, coolant",14841.04945
+"This model: coolant-side h (W/m2K)",16331.47442
+"This model: air-side h (W/m2K)",107.2253404
+"This model: air-side area (m2)",2.676873071
+"This model: UA (W/K)",262.7838966
+"This model: radiator heat at the report design point (kW)",9.27562109

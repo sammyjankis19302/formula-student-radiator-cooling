@@ -1,0 +1,19 @@
+# files MATLAB and Simulink create while building and running
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.mex*
+codegen/
+*_grt_rtw/
+*_ert_rtw/
+*.slx.r20*
+
+# Python
+__pycache__/
+*.pyc
+
+# operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
